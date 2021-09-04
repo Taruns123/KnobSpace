@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "684877630294",
+    "firebase_url": "https://knobspace-protocol-34c05-default-rtdb.firebaseio.com",
+    "project_id": "knobspace-protocol-34c05",
+    "storage_bucket": "knobspace-protocol-34c05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684877630294:android:1ecb8f52c727cb632964f7",
+        "android_client_info": {
+          "package_name": "com.example.protocolforknobspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684877630294-v03dfnk7iog6uvcbgofa1hda894g4v8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.protocolforknobspace",
+            "certificate_hash": "2641603933682f128c356628a30c5831f84fc10a"
+          }
+        },
+        {
+          "client_id": "684877630294-8dp1sv28p4t6su81bcom5u2i09uqdhni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUQA3y5JXNJIqXMrYR3jf23K1AOO_TOqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684877630294-8dp1sv28p4t6su81bcom5u2i09uqdhni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
